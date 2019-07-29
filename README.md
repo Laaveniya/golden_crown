@@ -8,9 +8,10 @@ Each kingdom has an animal emblem and Shan needs to send a message with the anim
 Once he wins 3 more kingdoms, he is the ruler! The secret message needs to contain the letters of the animal in their emblem. For example, secret message to the Land kingdom (emblem: Panda) needs to have the letter 'p','n','d' at- least once and 'a' at-least twice. If he sends "a1d22n333a4444p" to the Land kingdom, he will win them over.
 
 ## Execution Commands
+
 ruby space_kingdom_conquest.rb
 
-It would print he below
+It would print the below
 
 Who is the ruler of Southeros?
 "None"
